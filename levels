@@ -1,1 +1,7 @@
-{"levels":[{"name":"someName", "id":"9e9bb622aaa14d3bb84d0b3426f50106", "index":1},{"name":"someName", "id":"9e9bb622aaa14d3bb84d0b3426f50106", "index":1}]}
+{"levels":[
+{"id":"level51", "index":1},
+{"id":"level52", "index":2},
+{"id":"level53", "index":3},
+{"id":"vertical", "index":4},
+{"id":"horizontal", "index":5}
+]}

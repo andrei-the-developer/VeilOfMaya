@@ -1,0 +1,12 @@
+{
+    "levelID": "wrong",
+    "levelName": "Test wrong dimentions",
+    "levelHash": "fda2229a3ba19fff8f30a5e5d4746fff"
+    "width": 6,
+    "height": 6,
+    "description": "iiiiiiiptsciicccciiiiiii",
+    "timer": 72,
+    "creator": "Don John",
+    "creationDate": "12/11/2022",
+    "info":"6x6 width, but description =! 36 chars"
+}
